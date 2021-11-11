@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="nameValue">Van De Castro</string>
+    <string name="starImageDescription">Yellow Star</string>
+    <string name="bioText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec laoreet, orci vel commodo
+        dictum, lorem ante semper dolor, ac ullamcorper ligula nisl sed lacus. Proin bibendum, sem at fermentum sodales,
+        augue magna blandit ante, eu laoreet orci augue id risus. Integer ut sapien leo. Donec purus velit, fringilla a
+        risus auctor, auctor convallis felis. Duis tempus magna et neque commodo, nec vestibulum sem viverra. Sed
+        posuere, nisl eget placerat pellentesque, magna nibh hendrerit purus, id malesuada lacus nunc sit amet mi.
+        Mauris non fermentum tellus. Fusce ultricies in dui id malesuada. Aenean faucibus, dui nec fringilla faucibus,
+        orci ex egestas turpis, ac lobortis tellus enim at tellus. Nullam elementum pellentesque erat, ut fringilla nisl
+        dapibus a. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris id nibh
+        et sem porttitor malesuada a vehicula risus. Etiam et eros id dolor sollicitudin fermentum. Ut venenatis lorem
+        non eros tincidunt bibendum. Quisque elementum sed risus nec bibendum. Suspendisse et ex eget nunc varius
+        fringilla ultricies eu lacus. Vestibulum lobortis, augue sit amet posuere mattis, dui eros commodo ligula, ac
+        dignissim ipsum odio eget diam. Etiam at turpis id dui tincidunt elementum sed a nibh. Nullam faucibus interdum
+        facilisis. Donec dolor urna, posuere quis ligula id, rutrum cursus augue. Vestibulum ac nisl in orci condimentum
+        auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla maximus,
+        felis sed dapibus vulputate, nibh eros interdum nunc, eget condimentum urna neque id lectus. Pellentesque vel
+        iaculis felis. Etiam consequat ullamcorper bibendum. Nunc ut volutpat urna, vitae ultricies nibh. Duis a tortor
+        ac arcu tristique mattis id quis urna. Duis et nisl ultrices, gravida sapien at, lacinia arcu. Aenean eu risus
+        ligula. Nulla aliquam neque ante, et luctus turpis egestas porttitor. Cras malesuada nec justo eu ultrices.
+        Phasellus mi lorem, rutrum sit amet facilisis et, gravida sit amet enim. Sed condimentum auctor libero, nec
+        dignissim sapien rhoncus vitae. Quisque a sapien eget leo mattis scelerisque. Sed ornare eget lacus sit amet
+        imperdiet. Aliquam sit amet metus et mi scelerisque condimentum. Nam sem magna, consequat eget porta et,
+        pharetra sed velit. Donec sed massa sit amet leo ornare vulputate sit amet eget leo. Vestibulum viverra ligula
+        ante, sed efficitur odio luctus eu. Fusce ut lectus nec est suscipit lacinia. Ut vulputate consequat sapien vel
+        dignissim. In non dui vitae lectus aliquam condimentum. Morbi id magna vestibulum, pharetra nibh a, maximus
+        lectus. Fusce hendrerit lectus massa, non malesuada dolor pretium et. Nunc placerat neque et faucibus auctor.
+        Cras ac maximus neque, vitae mattis orci. Vestibulum congue, risus tristique mollis gravida, augue neque
+        sollicitudin tortor, quis rutrum magna quam vulputate nisi. Nullam suscipit at risus consectetur eleifend. Sed
+        vehicula semper tellus vitae pulvinar. Aliquam erat volutpat. Morbi neque nisl, eleifend eu tempus et, interdum
+        in mi. Donec aliquam sem lectus, non tincidunt lectus laoreet nec. Curabitur mauris nibh, volutpat ac dolor sit
+        amet, vehicula feugiat risus. Proin eget nulla lacinia velit viverra consectetur ut aliquam ante. Vivamus at
+        pulvinar mauris.
+    </string>
+    <string name="padding">16dp</string>
+    <string name="whatIsYourNickname">What is your nickname?</string>
+    <string name="doneText">done</string>
+</resources>
